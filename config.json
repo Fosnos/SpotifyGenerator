@@ -1,0 +1,15 @@
+{
+    "generator": {
+        "threads": 35,
+        "debug": true,
+        "proxy": {
+            "enabled": true,
+            "input": "./proxies.txt"
+        }
+    },
+    "account": {
+        "emails": ["@gmail.com", "@outlook.com", "@yahoo.com"],
+        "password": "FuckSpotify!48",
+        "output": "./accounts.txt"
+    }
+}
